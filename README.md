@@ -5,3 +5,4 @@ When you answer all the questions in the command line it creates a new readme fi
 Open index.js file in node. Answer all the questions in the command line and generate read me
 
 ## link to the video. 
+https://drive.google.com/file/d/157l-UdKnxT2C8nASWoMTqQHbhGoxCVXx/view
